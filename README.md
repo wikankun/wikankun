@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Wikankun's github stats](https://github-readme-stats.vercel.app/api?username=wikankun&show_icons=true)
+
+![Wikankun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wikankun&layout=compact)
+
 <!--
 **wikankun/wikankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
