@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-![Wikankun's github stats](https://github-readme-stats.vercel.app/api?username=wikankun&show_icons=true)
-
 ![Wikankun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wikankun&layout=compact)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun)
 
 <!--
 **wikankun/wikankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Wikankun's github stats](https://github-readme-stats.vercel.app/api?username=wikankun&show_icons=true)
 
 Here are some ideas to get you started:
 
