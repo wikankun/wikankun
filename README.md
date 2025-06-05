@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Wikankun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wikankun&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light)](https://git.io/streak-stats)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun)
 
