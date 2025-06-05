@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light)](https://git.io/streak-stats)
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fff&textColor=%23000&qColor=%2316d351&aColor=%23008069&borderColor=%23008069" alt="README Jokes"></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun)
 
