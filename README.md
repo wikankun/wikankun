@@ -1,10 +1,21 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wikankun&style=for-the-badge&color=red" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/wikankun?style=for-the-badge&color=blueviolet" alt="Profile's Stars" />
+  <img src="https://img.shields.io/github/followers/wikankun?style=for-the-badge&color=blue" alt="Followers" />
+</div>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fff&textColor=%23000&qColor=%2316d351&aColor=%23008069&borderColor=%23008069" alt="README Jokes"></a>
+<div align="center">
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&hide_border=true&fire=ff6b6b)](https://git.io/streak-stats) -->
+  <img src="https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&hide_border=true&fire=ff6b6b" alt="GitHub Streak" />
+</div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun)
+<div align="center">
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fff&textColor=%23000&qColor=%2316d351&aColor=%23008069&hideBorder" alt="README Jokes"></a>
+</div>
+
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun) -->
 
 <!--
 **wikankun/wikankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
