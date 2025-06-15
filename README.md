@@ -8,11 +8,11 @@
 
 <div align="center">
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&hide_border=true&fire=ff6b6b)](https://git.io/streak-stats) -->
-  <img src="https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&hide_border=true&fire=ff6b6b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&fire=ff6b6b" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fff&textColor=%23000&qColor=%2316d351&aColor=%23008069&hideBorder" alt="README Jokes"></a>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23fff&textColor=%23000&qColor=%2316d351&aColor=%23008069&borderColor=%23ffffff" alt="README Jokes"></a>
 </div>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=wikankun.wikankun) -->
