@@ -8,7 +8,7 @@
 
 <div align="center">
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&hide_border=true&fire=ff6b6b)](https://git.io/streak-stats) -->
-  <img src="https://streak-stats.demolab.com?user=wikankun&theme=whatsapp-light&fire=ff6b6b" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wikankun&theme=whatsapp-light&fire=ff6b6b&border=008069" alt="GitHub Streak" />
 </div>
 
 <div align="center">
