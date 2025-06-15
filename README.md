@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wikankun&style=for-the-badge&color=red" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/wikankun?style=for-the-badge&color=blueviolet" alt="Profile's Stars" />
